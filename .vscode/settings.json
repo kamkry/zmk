@@ -2,7 +2,15 @@
   "files.associations": {
     "*.overlay": "dts",
     "*.keymap": "dts",
-    "log.h": "c"
+    "log.h": "c",
+    "endpoint_changed.h": "c",
+    "kernel.h": "c",
+    "battery_state_changed.h": "c",
+    "battery.h": "c",
+    "peripheral_status.h": "c",
+    "util.h": "c",
+    "lvgl.h": "c",
+    "split_peripheral_status_changed.h": "c"
   },
   "python.formatting.provider": "black",
   "[c]": {
